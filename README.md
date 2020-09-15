@@ -7,4 +7,6 @@ I have used Content-Based Filtering i.e filter the recommended movies on the bas
 2. Add another file using Colaborative Filter method/algorithm.
 
 *Data-Base* <br>
+
+
 The Database has been saved in a CSV file and is picked up from IMBD and a dataset is filter and cleared already for use.
